@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi there, I'm Siva Narendra Ramineni!
 
-<!--
-**sivanarendraramineni/sivanarendraramineni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 QA Automation Engineer | 💻 Java & Selenium Expert | 🧪 Framework Builder  
+I have 5.6+ years of experience in automation testing across banking and manufacturing domains with a strong focus on building reliable and scalable frameworks.
 
-Here are some ideas to get you started:
+- 🔭 Currently working on automation testing with Selenium, Java,TestNG and Cucumber for creating BDD Framework.
+- 🌱 Learning API Tesing Rest Assured for Backend Automation.
+- 🛠️ Experienced in Manual, Automation, API Testing, funtional, Regression, Smoke, Sanity, End 2 End testing, GCP Testing.
+- 💡 I love simplifying complex test scenarios into reusable, clean test components
+- 💡 Exploring Gen AI tools like GitHub Copilot to boost productivity, accelerate script development, and integrate AI-driven efficiencies into QA workflows to make our life easy 
+- 📫 Let's connect on [LinkedIn] (https://linkedin.com/in/sivanarendraramineni)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ Skills & Tools
+
+Java | Selenium | TestNG | Cucumber BDD | Maven | Git | Jenkins |API Testing | Postman | Gen AI | GitHub Copilot
