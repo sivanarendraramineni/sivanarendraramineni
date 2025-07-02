@@ -14,4 +14,4 @@ I have 5.6+ years of experience in automation testing across banking and manufac
 
 ### ⚙️ Skills & Tools
 
-Java | Selenium | TestNG | Cucumber BDD | Maven | Git | Jenkins |API Testing | Postman | Gen AI | GitHub Copilot
+Java | Selenium | TestNG | Cucumber BDD | Maven | Git | Jenkins |API Testing | Postman | Gen AI | GitHub Copilot | ChatGPT
