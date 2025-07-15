@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Siva Narendra Ramineni!
 
 🎯 QA Automation Engineer | 💻 Java & Selenium Expert | 🧪 Framework Builder  
+
 I’m a passionate QA Automation Engineer with 5.6+ years of experience in automation testing, specializing in building robust, scalable frameworks across banking and manufacturing domains.
 
 - 🔭 Currently working on automation testing with Selenium, Java,TestNG and Cucumber for creating BDD Framework.
