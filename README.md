@@ -1,13 +1,14 @@
 # 👋 Hi there, I'm Siva Narendra Ramineni!
 
 🎯 QA Automation Engineer | 💻 Java & Selenium Expert | 🧪 Framework Builder  
-I have 5.6+ years of experience in automation testing across banking and manufacturing domains with a strong focus on building reliable and scalable frameworks.
+I’m a passionate QA Automation Engineer with 5.6+ years of experience in automation testing, specializing in building robust, scalable frameworks across banking and manufacturing domains.
 
 - 🔭 Currently working on automation testing with Selenium, Java,TestNG and Cucumber for creating BDD Framework.
-- 🌱 Learning API Tesing Rest Assured for Backend Automation.
-- 🛠️ Experienced in Manual, Automation, API Testing, funtional, Regression, Smoke, Sanity, End 2 End testing, GCP Testing.
+- 🌱 Actively learning REST Assured to expand my backend/API testing skills.
+- 🛠️ Skilled in Manual Testing, Automation Testing, API Testing, as well as Functional, Regression, Smoke, Sanity, End-to-End, and GCP Testing.
 - 💡 I love simplifying complex test scenarios into reusable, clean test components
-- 💡 Exploring Gen AI tools like GitHub Copilot, ChatGPT to boost productivity, accelerate script development, and integrate AI-driven efficiencies into QA workflows to make our life easy 
+- 💡 Exploring Gen AI tools like GitHub Copilot, ChatGPT to boost productivity, accelerate script development, and integrate AI-driven efficiencies into QA workflows to make our life easy
+- 📅 Availability: Open to interview opportunities and collaborations. Ready to join immediately for the right role.
 - 📫 Let's connect on [LinkedIn] (https://linkedin.com/in/sivanarendraramineni)
 
 ---
